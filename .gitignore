@@ -1,0 +1,16 @@
+/data_links/*
+!/data_links/README.md
+/outputs_r/
+/manuscript/
+private_do_not_share/
+.Rhistory
+.RData
+.Rproj.user/
+.Renviron
+*.rds
+*.dta
+*.sav
+*.sas7bdat
+*.parquet
+*.enl
+*.zip
